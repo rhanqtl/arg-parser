@@ -1,0 +1,2 @@
+class UnsupportedParameterTypeError < StandardError
+end
